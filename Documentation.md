@@ -1,12 +1,12 @@
 Documentation file.
 
 *ToDo
-**PGP
-**Virtual box
-**Ubuntu
-**Vagrant
-**Docker
-**Open VPN
-**VCS
-**Git SCM
-**GitHub Desktop
+PGP
+Virtual box
+Ubuntu
+Vagrant
+Docker
+Open VPN
+VCS
+Git SCM
+GitHub Desktop
