@@ -1,3 +1,4 @@
+//Please, organize peer review (Skype or smth like that), as I have some questions according logic designed. THX
 boolean butt_flag = 0;
 boolean butt;
 boolean led_flag = 0;
